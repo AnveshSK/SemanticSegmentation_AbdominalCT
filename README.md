@@ -6,7 +6,17 @@ To solve this, we annotated 451 image-mask pairs from DICOM files of the abdomin
 
 
 Example of CT slice and preprocessing done :
+
+
+
+
 <img width="475" alt="Screenshot 2023-05-16 at 4 23 49 PM" src="https://github.com/AnveshSK/Size-matters-Exploring-the-impact-of-model-architecture-and-dataset-size-/assets/54216044/28b05536-1872-43ae-aaf4-c46bc0199c8c">
+
+
+
+
+
+
 
 Architecture of Resized U-Net :
 
