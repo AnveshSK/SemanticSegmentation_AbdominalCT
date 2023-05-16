@@ -14,9 +14,46 @@ In this study, comparisons were made between two U-Net architectures, Standard U
 decoder were maintained [12,13]. Note that this model was trained from scratch. This model achieved an improved complete loss and generalised better across all datasets. But this came at a serious increase in computation cost(around 34 million parameters). Hyperparameter tuning was done to improve performance
 and make the models a better fit for the dataset. The best parameters for each model and dataset combination were considered and compared to analyse the effects of image and dataset size.
 
+
+
+
+
+
+
+
+
+
+
 <img width="451" alt="Screenshot 2023-05-16 at 4 24 29 PM" src="https://github.com/AnveshSK/Size-matters-Exploring-the-impact-of-model-architecture-and-dataset-size-/assets/54216044/059fabb4-53d5-407a-8df4-1c694b7824f2">
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 RESULTS:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="480" alt="Screenshot 2023-05-16 at 4 26 30 PM" src="https://github.com/AnveshSK/Size-matters-Exploring-the-impact-of-model-architecture-and-dataset-size-/assets/54216044/07c6f4f6-5c7b-4408-b06b-49f04c5aa797">
 
 <img width="490" alt="Screenshot 2023-05-16 at 4 26 46 PM" src="https://github.com/AnveshSK/Size-matters-Exploring-the-impact-of-model-architecture-and-dataset-size-/assets/54216044/dfd066ab-a871-46d8-8eeb-679a456ce94f">
